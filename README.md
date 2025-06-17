@@ -1,4 +1,3 @@
-# install-sidestore-on-linux
 # 🐧 Installer SideStore sur iPhone à partir de Linux (Ubuntu)
 
 > Un guide simple, rapide et 100 % autonome pour installer SideStore depuis Ubuntu.  
@@ -32,9 +31,11 @@ libhandy-1-dev gir1.2-notify-0.7 psmisc
 
 ## 🚀 Lancer l’installation
 
-Clone ce dépôt ou télécharge ses fichiers, puis exécute le script :
+Clone le dépôt puis exécute le script :
 
 ```bash
+git clone https://github.com/vyvir/althea
+cd althea
 python3 main.py
 ```
 
@@ -85,8 +86,7 @@ Une fois le script terminé :
 
 ## 📸 Illustration
 
-
-![image](https://github.com/user-attachments/assets/5d9e776a-a7fb-40d8-afa9-37b0d77e552e)
+![image](https://github.com/user-attachments/assets/265d68bd-3f78-4bb3-9717-21df282a2025)
 
 
 ---
