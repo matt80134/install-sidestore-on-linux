@@ -85,13 +85,9 @@ Une fois le script terminé :
 
 ## 📸 Illustration
 
-```markdown
-<p align="center">
-  <img src="assets/sidestore-linux-install.png" width="90%" alt="Installation SideStore Linux">
-</p>
-```
 
-> *(Tu peux mettre ici une image dans `/assets/sidestore-linux-install.png`)*
+![image](https://github.com/user-attachments/assets/5d9e776a-a7fb-40d8-afa9-37b0d77e552e)
+
 
 ---
 
